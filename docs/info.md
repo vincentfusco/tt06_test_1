@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A simple NMOS current mirror to learn about the tt06 flow.
 
 ## How to test
 
-Explain how to use your project
+Connect a 1Meg resistor to the input and a bench supply in series with an ammeter to the output.
 
 ## External hardware
 
